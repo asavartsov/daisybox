@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS2116DRLR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TPS2116DRLR")(options "")(descr ""))
+  (lib (name "DaisyBoard")(type "KiCad")(uri "${KIPRJMOD}/DaisyBoard.pretty")(options "")(descr ""))
+)

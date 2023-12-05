@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DaisyInterconnect")(type "KiCad")(uri "${KIPRJMOD}/DaisyInterconnect.kicad_sym")(options "")(descr ""))
+  (lib (name "DaisyBoard")(type "KiCad")(uri "/Users/aleksei/Documents/Daisy/DaisyBoard/DaisyBoard.kicad_sym")(options "")(descr ""))
+)

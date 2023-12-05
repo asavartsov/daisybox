@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DaisyBoard")(type "KiCad")(uri "${KIPRJMOD}/DaisyBoard.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS2116DRLR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TPS2116DRLR/TPS2116DRLR.kicad_sym")(options "")(descr ""))
+  (lib (name "TL2201EEZA")(type "KiCad")(uri "${KIPRJMOD}/Libraries/TL2201EEZA/TL2201EEZA.kicad_sym")(options "")(descr ""))
+)
